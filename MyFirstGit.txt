@@ -1,0 +1,1 @@
+This is my first Git respository and i am learning about the git
